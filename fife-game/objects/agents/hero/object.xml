@@ -1,0 +1,15 @@
+<?fife type="object"?>
+<object blocking="1" id="hero" namespace="http://missfilly.github.io" static="0">
+	<action id="run">
+		<animation atlas="run.png" height="96" width="96">
+			<direction delay="130" dir="0" frames="8"/>
+			<direction delay="130" dir="45" frames="8"/>
+			<direction delay="130" dir="90" frames="8"/>
+			<direction delay="130" dir="135" frames="8"/>
+			<direction delay="130" dir="180" frames="8"/>
+			<direction delay="130" dir="225" frames="8"/>
+			<direction delay="130" dir="270" frames="8"/>
+			<direction delay="130" dir="315" frames="8"/>
+		</animation>
+	</action>
+</object>
